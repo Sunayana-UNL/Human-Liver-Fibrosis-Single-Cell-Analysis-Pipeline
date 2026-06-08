@@ -1,0 +1,41 @@
+name: gse136103_fibrosis2
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - r-base=4.3
+  - bioconductor-deseq2
+  - bioconductor-clusterprofiler
+  - bioconductor-org.hs.eg.db
+  - r-tidyverse
+  - r-readr
+  - r-tibble
+  - r-dplyr
+  - r-ggplot2
+  - r-biocmanager
+  - r-pheatmap
+  - r-ggrepel
+  - scanpy>=1.9.6
+  - anndata>=0.10.0
+  - leidenalg
+  - python-igraph
+  - harmonypy
+  - scrublet
+  - pandas>=2.0
+  - numpy>=1.24
+  - scipy>=1.11
+  - matplotlib>=3.7
+  - seaborn>=0.12
+  - plotly>=5.15
+  - tqdm
+  - requests
+  - networkx
+  - scikit-learn
+  - pip
+  - pip:
+    - decoupler==1.9.2
+    - liana>=1.0.0
+    - adjusttext
+    - ffq>=0.3.0
