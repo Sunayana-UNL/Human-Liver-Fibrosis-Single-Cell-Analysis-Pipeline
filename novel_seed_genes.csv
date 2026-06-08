@@ -1,0 +1,4 @@
+gene,logFC,degree,betweenness,cell_type,criteria_met
+SPP1,5.1,17,0.05238095238095239,SAMac_TREM2,"logFC>=2.0, degree top 30%, betweenness top 30%"
+TIMP1,3.5,16,0.05714285714285715,SAMes_myofibroblast,"logFC>=2.0, degree top 30%, betweenness top 30%"
+CCL2,3.3,17,0.08095238095238096,SAEndo_ACKR1,"logFC>=2.0, degree top 30%, betweenness top 30%"
