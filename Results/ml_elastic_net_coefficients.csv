@@ -1,0 +1,11 @@
+feature,coefficient
+clinical,0.8662734617559612
+serum,0.6196492622438556
+comp_Macrophage,0.0
+logFC,0.0
+druggability,0.0
+comp_Mesenchymal,0.0
+specificity,-0.016257672058352834
+comp_Endothelial,-0.10556287716017805
+log10_pval,-0.26813161084442755
+fold_change,-0.3466625075146695
